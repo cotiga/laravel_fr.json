@@ -38,7 +38,7 @@
     "Sorry, you are making too many requests to our servers.": "Désolé, le serveur est saturé par vos requêtes.",
     "Sorry, you are not authorized to access this page.": "Désolé, vous n'êtes pas autorisé à voir cette page.",
     "Sorry, your session has expired. Please refresh and try again.": "Désolé, votre session a expiré. Veuillez actualiser et réessayer.",
-    "This password reset link will expire in 60 minutes.": "Ce lien de réinitialisation de mot de passe expirera dans 60 minutes.",
+    "This password reset link will expire in :count minutes.": "Ce lien de réinitialisation du mot de passe expire dans :count minutes !",
     "Too Many Requests": "Erreur 429, trop de requêtes",
     "Unauthorized": "Erreur 401, accès non autorisé",
     "Verify Email Address": "Valider mon email",
